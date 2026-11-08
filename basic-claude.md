@@ -1,4 +1,6 @@
-# 교사 기본실습 1
+# 강의 시작 실습
+
+강의 순서: [① 앱 설치](install.html) → [② Aside 연결](aside.html) → [③ 강의 시작 실습](basic.html) → [④ 기본실습](practice.html)
 
 ## 말로 만드는 교실 웹사이트와 웹앱 · 클로드 코드 버전
 

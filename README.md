@@ -8,6 +8,17 @@
 - [가상 예시 자료](sample-materials.zip): 압축을 풀어 주제별 파일 사용
 - [강사용 운영 메모](INSTRUCTOR.md)
 
+## 강의 전체 순서
+
+교사에게는 공개된 첫 화면 주소 하나를 안내합니다. 각 페이지 상단의 강의 순서와 하단의 이전·다음 링크로 이동합니다.
+
+1. [코덱스와 클로드 설치하기](install.html) · [편집용 글](install.md)
+2. [Aside 연결 맞추기](aside.html) · [편집용 글](aside.md)
+3. [강의 시작 실습](basic.html): 설명해서 웹앱 만들기, 눌러 보기, 세 번 고치기
+4. [기본실습](practice.html): 처음 만든 아홉 가지 교실 업무
+
+코덱스와 클로드 코드 중 하나로 진행할 수 있습니다. 기존 basic.html, basic-claude.html, basic-codex.html, claude.html, codex.html 주소도 유지됩니다.
+
 ## 강의 시작 · 기본실습 1
 
 [기본실습 첫 화면](basic.html)에서 시작합니다. 원본과 같은 19개 항목을 교사용으로 새로 썼습니다.
