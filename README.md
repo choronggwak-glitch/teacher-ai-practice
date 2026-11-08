@@ -17,14 +17,14 @@
 3. [강의 시작 실습](basic.html): 설명해서 웹앱 만들기, 눌러 보기, 세 번 고치기
 4. [기본실습](practice.html): 처음 만든 아홉 가지 교실 업무
 
-코덱스와 클로드 코드 중 하나로 진행할 수 있습니다. 기존 basic.html, basic-claude.html, basic-codex.html, claude.html, codex.html 주소도 유지됩니다.
+시작 실습은 ChatGPT Work의 Sites로 진행합니다. 클로드 코드 안내는 Local 환경에서 파일을 만드는 별도 방식입니다. 이후 4단계 업무 실습은 코덱스 또는 클로드 코드에서 진행합니다. 기존 basic.html, basic-claude.html, basic-work.html, claude.html, codex.html 주소도 유지됩니다.
 
-## 강의 시작 · 기본실습 1
+## 강의 시작 실습 · ChatGPT Work · Sites
 
 [기본실습 첫 화면](basic.html)에서 시작합니다. 원본과 같은 19개 항목을 교사용으로 새로 썼습니다.
 
 - [클로드 코드 기본실습](basic-claude.html) · [글 파일](basic-claude.md)
-- [코덱스 기본실습](basic-codex.html) · [글 파일](basic-codex.md)
+- [Work · Sites 시작 실습](basic-work.html) · [글 파일](basic-work.md)
 - [기본실습 가상 자료 6개](basic-samples.zip)
 
 권장 흐름: 설명해 만들기 → 눌러 보기 → 세 번 고치기 → 짝 피드백 → 선택 공유.

@@ -4,6 +4,8 @@
 
 [보내주신 원본 그림 안내](https://github.com/aiautomationstudy/study_exercises/blob/main/3%EA%B8%B0/%EC%8B%A4%EC%8A%B5/3%EA%B8%B0_Aside_%EC%97%B0%EA%B2%B0_%EB%8B%A4%EC%8B%9C%EB%A7%9E%EC%B6%94%EA%B8%B0_%EB%94%B0%EB%9D%BC%ED%95%98%EA%B8%B0.md) · [Aside 공식 개발자 안내](https://docs.aside.com/help/developers)
 
+3단계 시작 실습은 ChatGPT → Work → @Sites에서 시작합니다. 아래 연결 문장은 코덱스·클로드 코드의 Aside 준비용입니다.
+
 ## 먼저 준비할 것
 
 1. [Aside 공식 받기 페이지](https://aside.com/download)에서 설치하고 로그인합니다. 이미 준비했으면 다시 설치하지 않습니다.
